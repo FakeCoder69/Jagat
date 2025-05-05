@@ -1,3 +1,3 @@
-# Jagat
+# Fake Coder
 This is my first repository.<br>
-Auther:-Jagat Joshi
+Auther:-Fake Coder
